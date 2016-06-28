@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # Informationen über ein Video mittels vimeo-API auslesen
-# Lizenz: BSD-Lizenz https://de.wikipedia.org/wiki/BSD-Lizenz
+# Lizenz: MIT license
 # Datum: 09.11.2012
 # 
 
